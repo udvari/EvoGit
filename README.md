@@ -10,3 +10,4 @@ Creting my first list about something
 - Ganalytúróbogár lekvár
 - Zsiráfpörkölt Zebraraguval
 - Teknőshátpácéllekvár
+- Zebracsík főzelék
