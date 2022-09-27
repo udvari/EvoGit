@@ -7,3 +7,4 @@ Creting my first list about something
 - Levesestevepata
 - Csülkösszénabála
 - Instant vízporral készült száraztészta
+- Bálnazsíros pogácsa
